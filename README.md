@@ -46,11 +46,14 @@ venv/scripts/activate #En windows
 python3 -m pip install --upgrade pip #Actualizamos el pip
 
 11. Investigar ¿Qué es el pip y porque lo actualizamos?
+    
+13. Hacer al primer commit de este trabajo y unirlo al repositorio remoto.
 
-    Mostrar versiones
-volume_up
+14. Enviar el enlace del repositorio remoto donde tiene que tener un README.md con todos los detalles de lo que les fui mostrando en comandos, y las respuesta del punto 11 de más arriba.
 
-¿Qué es pip y por qué actualizarlo?
+
+## ¿Qué es pip y por qué actualizarlo?
+
 pip es una herramienta fundamental para el desarrollo de software en Python. Es una herramienta de línea de comandos que se utiliza para instalar, actualizar y gestionar paquetes de software escritos en Python. El nombre "pip" es un acrónimo recursivo que significa "pip installs packages" (pip instala paquetes).
 
 Funciones principales de pip:
@@ -94,6 +97,3 @@ Mejoras de seguridad: Las actualizaciones de pip pueden incluir parches de segur
 
 Compatibilidad: Las nuevas versiones pueden asegurar mejor compatibilidad con las versiones más recientes de Python y con los paquetes de PyPI.
 
-13. Hacer al primer commit de este trabajo y unirlo al repositorio remoto.
-
-14. Enviar el enlace del repositorio remoto donde tiene que tener un README.md con todos los detalles de lo que les fui mostrando en comandos, y las respuesta del punto 11 de más arriba.
