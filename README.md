@@ -7,43 +7,65 @@ Hoy vamos a hacer actividad en Python en un día como programadores:
 
 2. Creamos una carpeta o directorio: 
 
+```bash
 mkdir python-final
+```
 
-3. Entramos en ella: 
-
+3. Entramos en ella:
+   
+```bash
 cd python-final
+```
 
 4. Iniciamos el repositorio:
 
+```bash
 git init
+```
 
 5. Creamos un archivo:
-
+   
+```bash
 touch finales.py
+```
 
 6. Abrimos VSC:
 
+```bash
 code .
+```
 
 7. En terminal ingresamos el comando para saber la versión de Python que tenemos instalada:
 
+```bash
 python -V
+```
 
+```bash
 python3 -V
+```
 
 8. Creamos el entorno virtual en Python:
 
+```bash
 python3 -m venv venv #Creamos el entorno virtual
+```
 
 9. Activamos el entorno virtual:
 
+```bash
 source venv/bin/activate #Activamos el entorno virtual en Linux
+```
 
+```bash
 venv/scripts/activate #En windows
+```
 
 10. Hacemos actualización del pip de Python
 
+```bash
 python3 -m pip install --upgrade pip #Actualizamos el pip
+```
 
 11. Investigar ¿Qué es el pip y porque lo actualizamos?
     
